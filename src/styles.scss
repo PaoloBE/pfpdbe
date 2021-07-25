@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+// import our custom theme
+
+.mat-app-background{
+    margin:0;
+    height:100vh;
+    background-image: url('assets/FondoWeblogo.png');
+    height:100vh;
+    background-size: cover;
+}
+.container{
+    padding:13px;
+}
